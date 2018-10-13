@@ -1,0 +1,11 @@
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktek\Tugas praktek\Aplikasi Win Form\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csprojAssemblyReference.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktek\Tugas praktek\Aplikasi Win Form\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.Form1.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktek\Tugas praktek\Aplikasi Win Form\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.Properties.Resources.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktek\Tugas praktek\Aplikasi Win Form\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csproj.GenerateResource.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktek\Tugas praktek\Aplikasi Win Form\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktek\Tugas praktek\Aplikasi Win Form\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.exe.config
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktek\Tugas praktek\Aplikasi Win Form\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.exe
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktek\Tugas praktek\Aplikasi Win Form\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.pdb
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktek\Tugas praktek\Aplikasi Win Form\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.exe
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktek\Tugas praktek\Aplikasi Win Form\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.pdb
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktek\Tugas praktek\Aplikasi Win Form\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.FrmListMahasiswa.resources
